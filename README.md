@@ -4,4 +4,3 @@
 - Server management, API programming and database interaction are all aspects that I strive to master.
 - 🌱 I'm currently learning corporate network administration, which includes network hardware configuration, maintenance, installation and reset.
 - 📫 How to reach me by e-mail: olivia.rives@icloud.com
-- ⚡ Fun fact: I've been playing football for 10 years.
