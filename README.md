@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @oliviarives
-- 👀 My interest in IT covers a wide range of areas. I'm deeply involved in front-end web development, where I create intuitive and responsive user interfaces that
-- facilitate interaction with the web application. At the same time, my interest in back-end development leads me to explore the behind-the-scenes aspects of web applications.
-- Server management, API programming and database interaction are all aspects that I strive to master.
-- 🌱 I'm currently learning corporate network administration, which includes network hardware configuration, maintenance, installation and reset.
-- 📫 How to reach me by e-mail: olivia.rives@icloud.com
+
